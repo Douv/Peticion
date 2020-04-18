@@ -173,7 +173,7 @@
 
           <!-- Copyright -->
           <div class="footer-copyright text-center py-3">© 2020 Copyright:
-            <a href="https://mdbootstrap.com/education/bootstrap/"> COMUNIDAD HAITIANA EN ARGENTINA</a>
+            <a href="https://www.hashetag.com"> Hashetag Digital Agency</a>
           </div>
           <!-- Copyright -->
 
